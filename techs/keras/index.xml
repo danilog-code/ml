@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>keras on Danilo Gustavo Bispo</title>
+    <link>https://danilog-code.github.io/ml/techs/keras/</link>
+    <description>Recent content in keras on Danilo Gustavo Bispo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Danilo Gustavo Bispo 2020</copyright>
+    <lastBuildDate>Thu, 02 Apr 2020 19:47:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://danilog-code.github.io/ml/techs/keras/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Detecting Defect on Steel</title>
+      <link>https://danilog-code.github.io/ml/portfolio/project2_detectdefectsteel/</link>
+      <pubDate>Thu, 02 Apr 2020 19:47:09 +0200</pubDate>
+      
+      <guid>https://danilog-code.github.io/ml/portfolio/project2_detectdefectsteel/</guid>
+      <description>An company need improve and automate the process of detecting and localizing defects found in steel manufacturing. Detecting defects would help in improving the quality of manufacturing as well as in reducing the waste due to production defects.
+The team has collected image of steel surfaces and have approached you to develop a model that could detect and localize defects in real time.
+The department have been provided with 12600 images that contain 4 types of defects along with their location in the steel surface.</description>
+    </item>
+    
+  </channel>
+</rss>

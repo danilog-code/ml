@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Designs on Danilo Gustavo Bispo</title>
+    <link>https://danilog-code.github.io/ml/designs/</link>
+    <description>Recent content in Designs on Danilo Gustavo Bispo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Danilo Gustavo Bispo 2020</copyright>
+    <lastBuildDate>Sat, 02 May 2020 19:47:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://danilog-code.github.io/ml/designs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>matplotlib</title>
+      <link>https://danilog-code.github.io/ml/designs/matplotlib/</link>
+      <pubDate>Sat, 02 May 2020 19:47:09 +0200</pubDate>
+      
+      <guid>https://danilog-code.github.io/ml/designs/matplotlib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>seaborn</title>
+      <link>https://danilog-code.github.io/ml/designs/seaborn/</link>
+      <pubDate>Thu, 02 Apr 2020 19:47:09 +0200</pubDate>
+      
+      <guid>https://danilog-code.github.io/ml/designs/seaborn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>confusion_matrix</title>
+      <link>https://danilog-code.github.io/ml/designs/confusion_matrix/</link>
+      <pubDate>Mon, 02 Mar 2020 19:47:09 +0200</pubDate>
+      
+      <guid>https://danilog-code.github.io/ml/designs/confusion_matrix/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

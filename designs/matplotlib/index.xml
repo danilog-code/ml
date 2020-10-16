@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>matplotlib on Danilo Gustavo Bispo</title>
+    <link>https://danilog-code.github.io/ml/designs/matplotlib/</link>
+    <description>Recent content in matplotlib on Danilo Gustavo Bispo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Danilo Gustavo Bispo 2020</copyright>
+    <lastBuildDate>Sat, 02 May 2020 19:47:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://danilog-code.github.io/ml/designs/matplotlib/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Classifying Chest Disease</title>
+      <link>https://danilog-code.github.io/ml/portfolio/project1_healthcareimageclass/</link>
+      <pubDate>Sat, 02 May 2020 19:47:09 +0200</pubDate>
+      
+      <guid>https://danilog-code.github.io/ml/portfolio/project1_healthcareimageclass/</guid>
+      <description>Due to the crisis pandemic in relationship with COVID-19, the principal healthcare systems need that have been tasked to automate the process of detecting and classifying chest disease and reduce the cost and time of detection.
+Teams of the healthcare has collected extensive X-Ray chest data and they approached you to develop a model that could detect and classify the diseases in less than 1 minute.
+Thereby the main idea is to build an image classification model with deep learning.</description>
+    </item>
+    
+    <item>
+      <title>Detecting Defect on Steel</title>
+      <link>https://danilog-code.github.io/ml/portfolio/project2_detectdefectsteel/</link>
+      <pubDate>Thu, 02 Apr 2020 19:47:09 +0200</pubDate>
+      
+      <guid>https://danilog-code.github.io/ml/portfolio/project2_detectdefectsteel/</guid>
+      <description>An company need improve and automate the process of detecting and localizing defects found in steel manufacturing. Detecting defects would help in improving the quality of manufacturing as well as in reducing the waste due to production defects.
+The team has collected image of steel surfaces and have approached you to develop a model that could detect and localize defects in real time.
+The department have been provided with 12600 images that contain 4 types of defects along with their location in the steel surface.</description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis</title>
+      <link>https://danilog-code.github.io/ml/portfolio/project3_sentimentanalysis/</link>
+      <pubDate>Mon, 02 Mar 2020 19:47:09 +0200</pubDate>
+      
+      <guid>https://danilog-code.github.io/ml/portfolio/project3_sentimentanalysis/</guid>
+      <description>An company is wanting in measuring the degree of satisfaction on their customers in order to improve the quality of service provision and sales in general.
+The Public Relations department team has collected an extensive data on their customers such as products reviews. Based on the reviews in format text, the team would like to predict whether their customers are satisfied with the product or not.
+Natural language processing can be used to build predictive models to perform sentiment analysis on social media posts and reviews and predict if customers are happy or not.</description>
+    </item>
+    
+  </channel>
+</rss>

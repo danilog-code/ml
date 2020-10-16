@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Danilo Gustavo Bispo</title>
+    <link>https://danilog-code.github.io/ml/post/</link>
+    <description>Recent content on Danilo Gustavo Bispo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Danilo Gustavo Bispo 2020</copyright>
+    <lastBuildDate>Mon, 02 Mar 2020 19:49:05 +0200</lastBuildDate>
+    
+	<atom:link href="https://danilog-code.github.io/ml/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An brief comment over CNN</title>
+      <link>https://danilog-code.github.io/ml/post/convolutional-neural-networks/</link>
+      <pubDate>Mon, 02 Mar 2020 19:49:05 +0200</pubDate>
+      
+      <guid>https://danilog-code.github.io/ml/post/convolutional-neural-networks/</guid>
+      <description>&lt;p&gt;Convolutional Neural Networks (in short CNNs) is an specialized architecture for image classification. Your main key parts concepts are convolution and pooling that operate as important functions.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://danilog-code.github.io/ml/post/images/convolutional_neural_networks.png&#34;
+         alt=&#34;source: machinelearningmastery&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;source: machinelearningmastery&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>Residual Network</title>
+      <link>https://danilog-code.github.io/ml/post/residual-network/</link>
+      <pubDate>Sun, 02 Feb 2020 19:49:05 +0200</pubDate>
+      
+      <guid>https://danilog-code.github.io/ml/post/residual-network/</guid>
+      <description>&lt;p&gt;Residual Neural Network is a architecture that includes “skip connection” feature which enables training of 152 layers without vanishing gradient issues&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Some words about transfer learning</title>
+      <link>https://danilog-code.github.io/ml/post/transfer-learning/</link>
+      <pubDate>Thu, 02 Jan 2020 19:49:05 +0200</pubDate>
+      
+      <guid>https://danilog-code.github.io/ml/post/transfer-learning/</guid>
+      <description>&lt;p&gt;Transfer learning is a machine learning technique in which a network that has been trained to perform a specific task is being reused (repurposed) as a starting point for another similar task.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://danilog-code.github.io/ml/post/images/transfer_learning.png&#34;
+         alt=&#34;transfer learning&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;transfer learning&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>ResUNet for image segmentation</title>
+      <link>https://danilog-code.github.io/ml/post/resunet/</link>
+      <pubDate>Tue, 03 Dec 2019 09:37:55 +0200</pubDate>
+      
+      <guid>https://danilog-code.github.io/ml/post/resunet/</guid>
+      <description>&lt;p&gt;ResUNet architecture combines UNet backbone architecture with residual blocks to overcome the vanishing gradients problems present in deep architectures.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
